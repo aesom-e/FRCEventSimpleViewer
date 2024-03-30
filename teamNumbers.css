@@ -1,0 +1,43 @@
+.teamNumber-1 {
+    display: inline-block;
+    position: relative;
+    left: 20px;
+    width: 10%;
+    text-align: center;
+}
+
+.teamNumber-2 {
+    display: inline-block;
+    position: relative;
+    margin-left: 20px;
+    width: 10%;
+    text-align: center;
+}
+
+.teamNumber-3 {
+    display: inline-block;
+    position: relative;
+    width: 10%;
+    text-align: center;
+}
+
+.teamNumber-4 {
+    display: inline-block;
+    position: relative;
+    width: 10%;
+    text-align: center;
+}
+
+.teamNumber-5 {
+    display: inline-block;
+    position: relative;
+    width: 10%;
+    text-align: center;
+}
+
+.teamNumber-6 {
+    display: inline-block;
+    position: relative;
+    width: 10%;
+    text-align: center;
+}
